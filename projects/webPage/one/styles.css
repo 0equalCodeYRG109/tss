@@ -1,0 +1,37 @@
+body{
+    margin: 12px;
+}
+
+.header{
+    background-color: #FF4B00;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h1{
+    background-color: #00B4FF;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 1px;
+    font-size: 40px;
+    color: white;
+}
+
+.main{
+    padding: 30px;
+    background-color: rgb(255, 255, 197);
+}
+
+p{
+    background-color: rgb(255, 255, 149);
+    padding: 20px;
+    font-size: 18px;
+}
+
+footer{
+    font-size: 10px;
+    background-color: grey;
+    color: white;
+    padding: 20px;
+}
